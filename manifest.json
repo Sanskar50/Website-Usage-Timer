@@ -1,0 +1,10 @@
+{
+  "name": "Website-Usage-Timer",
+  "version": "1.0.0",
+  "description": "Usage-Timer",
+  "manifest_version": 3,
+  "action": {
+  "default_popup": "index.html"
+  },
+  "permissions": ["storage", "alarms"]
+}

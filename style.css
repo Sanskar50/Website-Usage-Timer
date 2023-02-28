@@ -1,0 +1,44 @@
+.head {
+  text-align: center;
+  width: 300px;
+}
+
+.heading
+{
+  font-family: 'Secular One', sans-serif;
+  font-size: 2rem;
+}
+
+.unit
+{
+  display: inline-block;
+}
+
+body {
+  height: 280px;
+}
+
+.field {
+  text-align: center;
+}
+
+.in
+{
+  height: 35px;
+}
+
+.btn{
+  margin: 7px 5px 7px 5px;
+}
+
+.msg{
+  text-align: center;
+}
+
+.tick
+{
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  padding: 10px;
+}
